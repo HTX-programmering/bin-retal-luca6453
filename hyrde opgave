@@ -1,0 +1,8 @@
+kl 3: for at vise at hyrden skal komme klokken 3 skal kvinden tænde et lys i vindue 1 og vindue 2
+kl 5: for at vise at hyrden skal komme klokken 5 skal kvinden tænde et lys i vindue 1 og vindue 3
+kl 10: for at vise at hyrden skal komme klokken 10 skal kvinden tænde et lys i vindue 2 og vindue 4
+Resume:
+teksten forklarer det binære talsystem og sammenligner den med titalsystemet, teksten forklarer også hvad en bit og forklarer at 8 bits er 1 byte
+teksten forklarer også at for hver bit man går op ad fordobler dens værdi. den forklarer også at den første værdi altså 1 værdien er den vigtigeste
+fordi den bestemmer om tallet er lige eller ulige, og fortæller også at den sidste bit som har værdien 128 bestemmer om den totale værdi er positiv 
+eller negativ. teksten fortæller også at 1 byte har i alt 256 værdier fra 0-255.
